@@ -1,7 +1,7 @@
 # Syrius desktop redesign
 
 Mockups of every screen of the redesigned Syrius desktop wallet, as one page:
-https://sol-znn.github.io/syrius-demo/
+https://syrius.zenon.foo/
 
 A list of screens on the left, dark and light at the top, notes under each
 screen. The figures are examples. The animations are the wallet's own Lottie
